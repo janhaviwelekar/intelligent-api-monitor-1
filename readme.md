@@ -58,5 +58,5 @@ This dashboard provides:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/janhaviwelekar/intelligent-api-monitor.git
-cd intelligent-api-monitor/dashboard
+git clone https://github.com/janhaviwelekar/intelligent-api-monitor-1.git
+cd intelligent-api-monitor-1/dashboard
